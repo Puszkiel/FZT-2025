@@ -1,2 +1,3 @@
 # FZT-2025
 Vorlesung - FZT
+Aufbauend auf der Vorlesung Fahrzeugantriebe I erhalten die Studierenden einen tieferen Einblick in die verschiedenen Energieträger und -speicher in der Fahrzeugtechnik. Der Fokus liegt auf einer materialwissenschaftlichen Betrachtung von konventionellen Kraftstoffe und insbesondere neueren Energieträgern und -speichern wie Akkumulatoren, Wasserstoff oder synthetischen Kraftstoffen. Neben technischen Aspekten kennen die Studierenden auch die ökonomischen und ökologischen Besonderheiten der einzelnen Energieträger und -speicher und können diese zueinander in Relation setzen.
